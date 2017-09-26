@@ -1,5 +1,5 @@
 {
-  "name": "avtonom/semaphore-bundle",
+  "name": "devprofit/semaphore-bundle",
   "type": "symfony-bundle",
   "description": "A generic locking Symfony bundle for PHP, that uses named locks for semaphore acquire and release, to guarantee atomicity",
   "keywords": ["Symfony2", "bundle", "semaphore", "locking", "lock", "atomicity", "atom", "acquire", "release", "redis", "memcached", "sem", "flock"],
